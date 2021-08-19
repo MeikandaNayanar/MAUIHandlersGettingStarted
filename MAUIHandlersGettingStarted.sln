@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31606.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAUIHandlersGettingStarted", "MAUIHandlersGettingStarted\MAUIHandlersGettingStarted\MAUIHandlersGettingStarted.csproj", "{DA0A2D11-BD61-418F-9BB3-3B52E2347863}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAUIHandlersGettingStarted.WinUI", "MAUIHandlersGettingStarted\MAUIHandlersGettingStarted.WinUI\MAUIHandlersGettingStarted.WinUI.csproj", "{E30C0646-E6E4-466B-9C99-84E55FA14D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0A2D11-BD61-418F-9BB3-3B52E2347863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0A2D11-BD61-418F-9BB3-3B52E2347863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0A2D11-BD61-418F-9BB3-3B52E2347863}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA0A2D11-BD61-418F-9BB3-3B52E2347863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0A2D11-BD61-418F-9BB3-3B52E2347863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0A2D11-BD61-418F-9BB3-3B52E2347863}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E30C0646-E6E4-466B-9C99-84E55FA14D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30C0646-E6E4-466B-9C99-84E55FA14D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30C0646-E6E4-466B-9C99-84E55FA14D16}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E30C0646-E6E4-466B-9C99-84E55FA14D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30C0646-E6E4-466B-9C99-84E55FA14D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30C0646-E6E4-466B-9C99-84E55FA14D16}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+	EndGlobalSection
+EndGlobal
